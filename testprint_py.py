@@ -1,1 +1,2 @@
 print('mango')
+print('money')
